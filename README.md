@@ -18,5 +18,5 @@ A custom NLP web application built with PyTorch, Hugging Face Transformers, and 
    streamlit run app.py
    ```
 
-## 🎓 Learning & Attribution
+## 🎓 Acknowledgements
 Built as a learning tutorial to understand PyTorch by manually implementing `BartForConditionalGeneration`, focusing on low-level tensor manipulation instead of using pre-built pipelines.
