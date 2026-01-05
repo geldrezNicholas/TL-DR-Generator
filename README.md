@@ -19,4 +19,4 @@ A custom NLP web application built with PyTorch, Hugging Face Transformers, and 
    ```
 
 ## 🎓 Learning & Attribution
-I built this project to deepen my understanding of PyTorch by manually implementing the BartForConditionalGeneration model, focusing on low-level tensor manipulation instead of using pre-built pipelines.
+Built as a learning tutorial to understand PyTorch by manually implementing `BartForConditionalGeneration`, focusing on low-level tensor manipulation instead of using pre-built pipelines.
