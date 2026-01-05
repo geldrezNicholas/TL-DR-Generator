@@ -1,6 +1,6 @@
 # PyTorch TL;DR Generator 📚
 
-A custom NLP web application built with PyTorch, Hugging Face Transformers, and Streamlit. This tool uses the BART architecture to generate abstractive summaries of text or uploaded files.
+A custom NLP web application built with PyTorch, Hugging Face Transformers, and Streamlit. This tool uses the BART architecture to generate summaries of text or uploaded files.
 
 ## 🚀 Features
 - **Smart Summarization:** Uses `facebook/bart-large-cnn` to rewrite text concisely.
