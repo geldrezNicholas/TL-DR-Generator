@@ -12,11 +12,11 @@ A custom NLP web application built with PyTorch, Hugging Face Transformers, and 
 1. **Install Requirements:**
    ```bash
    pip install -r requirements.txt
-```
+   ```   
 2. **How to run:**
    ```bash
    streamlit run app.py
-```
+   ```
 
 ## 🎓 Learning & Attribution
 I built this project to deepen my understanding of PyTorch by manually implementing the BartForConditionalGeneration model, focusing on low-level tensor manipulation instead of using pre-built pipelines.
